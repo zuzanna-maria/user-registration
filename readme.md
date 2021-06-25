@@ -1,4 +1,4 @@
-*** To run project
+*** To run project ***
 
 install django
 
