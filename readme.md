@@ -10,7 +10,6 @@ pip install django
 run migrations
 
 ```
-python manage.py makemigrations
 python manage.py migrate
 
 ```
